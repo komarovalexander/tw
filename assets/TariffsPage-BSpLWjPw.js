@@ -1,0 +1,19 @@
+import{j as t}from"./index-Ci4lzTvy.js";import{S as e}from"./Section-BlLS9J9k.js";import{k as n}from"./index-C335Smex.js";import"./index-BJGstb8A.js";import"./index-kwBgJTCR.js";import"./AntdIcon-BOmhZjV8.js";const i=()=>{const r=[{title:"Перевозка байдарок - 1200 (за ходку)"},{title:"Перевозка людей - 800"},{title:`Повар, однодневный сплав: \r
+-5- человек-3000\r
+-6-10- человек-3500\r
+-11-15- человек-4000\r
+-16-20- человек-4500\r
+-20+ человек-5000`},{title:`Повар, двухдневный сплав: \r
+-1-10 человек-7000\r
+-10-15 человек-8000\r
+-15-20 человек-9000\r
+-20-25 человек-10000`},{title:`Инструктор, однодневный сплав: \r
+-5- человек-3000\r
+-6-10- человек-3500\r
+-11-15- человек-4000\r
+-16-20- человек-4500\r
+-20+ человек-5000`},{title:`Инструктор, двухдневный сплав: \r
+-1-10 человек-7000\r
+-11-15 человек-8000\r
+-16-20 человек-9000\r
+-21-25 человек-10000`},{title:"Работы в кемпинге и зп за дополнительную работу по благоустройству: от 1500 до 3000 рублей в зависимости от занятости"},{title:"Администратор: - 7% от суммы броней созданных администратором"},{title:"Снабжение: - 20000 в месяц"}];return t.jsx(n.Table,{data:r,columns:[{key:"title"}],rowKeyField:"title",oddEvenRows:!0,childComponents:{headRow:{content:()=>t.jsx(t.Fragment,{})},cellText:{elementAttributes:()=>({style:{whiteSpace:"break-spaces"}})}}})},p=()=>t.jsxs(e,{children:[t.jsx(e.Header,{title:"Тарифы"}),t.jsx(e.Content,{children:t.jsx(i,{})})]});export{p as default};
