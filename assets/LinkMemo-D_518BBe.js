@@ -1,1 +1,0 @@
-import{P as a,j as i,Q as x}from"./index-BIHH9p9I.js";const p=a.memo(({href:o,title:s,className:t,style:e,onClick:m,target:r,children:n})=>i.jsx(x,{onClick:m,to:o,target:r,title:s,className:t,style:e,children:n}));export{p as L};
