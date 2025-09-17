@@ -1,1 +1,0 @@
-import{p as t}from"./utils-D-LIvR1N.js";const u=(e,r)=>{let a=0;return e.tent&&!(r!=null&&r.skipTent)&&(a+=c("tent")*e.tent),e.bigTent&&(a+=c("bigTent")*e.bigTent),e.safariHouse&&(a+=c("safariHouse")*e.safariHouse),e.scandiHouse&&(a+=c("scandiHouse")*e.scandiHouse),a},c=e=>t.accommodation[e].actualPrice||0;export{u as g};
