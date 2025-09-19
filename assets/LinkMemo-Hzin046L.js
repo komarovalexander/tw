@@ -1,1 +1,0 @@
-import{P as a,j as i,L as x}from"./index-Dei5ELL3.js";const j=a.memo(({href:o,title:s,className:t,style:e,onClick:m,target:r,children:n})=>i.jsx(x,{onClick:m,to:o,target:r,title:s,className:t,style:e,children:n}));export{j as L};
