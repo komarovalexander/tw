@@ -1,0 +1,1 @@
+import{f as t,j as o,l as e}from"./index-DnoE7op6.js";import{L as i}from"./LinkMemo-CHk4F2vl.js";const f=({id:r})=>{const n=t();return n.data?r?["admin","manager"].includes(n.data.role)?o.jsx(i,{href:e.bookings.edit({id:r.toString()}),children:r}):r.toString():null:[]};export{f as B};
