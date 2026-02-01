@@ -1,1 +1,0 @@
-const Y="D.M.YYYY",M="D.M.YYYY H:mm",T="D.M.YYYY (dd)",_="D MMM YYYY",A="D MMM YYYY (dd)",D="D MMMM YYYY (dddd)",s="MM.YYYY",E="YYYY-MM-DD",O="YYYY-MM-DD HH:mm:ss";export{T as D,A as a,E as b,_ as c,D as d,s as e,O as f,M as g,Y as h};
