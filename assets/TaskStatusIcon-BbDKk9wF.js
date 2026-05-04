@@ -1,1 +1,0 @@
-import{j as n}from"./index-nt8VQFQf.js";import{t as o}from"./config-BiCq3OYo.js";import{T as r}from"./focus-DzYiJ_hi.js";const l=({taskStatus:s})=>{if(!s)return null;const t=o[s];return t?n.jsx("span",{style:{paddingRight:5},children:n.jsx(r,{title:t.text,children:t.icon})}):null};export{l as T};
